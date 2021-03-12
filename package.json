@@ -6,7 +6,7 @@
     "@babel/runtime": "^7.5.5",
     "css-loader": "^3.2.0",
     "react": "^16.9.0",
-    "react-dev-utils": "^9.0.3",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.9.0",
     "react-router-config": "^5.0.1",
     "react-router-dom": "^5.0.1",
